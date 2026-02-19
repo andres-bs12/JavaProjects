@@ -1,0 +1,2 @@
+# JavaProjects
+Short Java exercises :)
